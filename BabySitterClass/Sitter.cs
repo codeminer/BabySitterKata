@@ -21,5 +21,10 @@ namespace BabySitter.Library
             rate = 8;
             return bedTimeToMidNightHours * rate;
         }
+
+        public int MidnightToEndTimeCharge(int v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

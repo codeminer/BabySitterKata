@@ -23,5 +23,11 @@ namespace BabySitter.Library.Tests
             Sitter babysitter = new Sitter();
             Assert.AreEqual(16, babysitter.BedTimeToMidnightCharge(2));
         }
+        [Test]
+        public void MidnightToEndTimeCharge_Rate()
+        {
+            Sitter babysitter = new Sitter();
+            Assert.AreEqual(64, babysitter.MidnightToEndTimeCharge(4));
+        }
     }
 }
