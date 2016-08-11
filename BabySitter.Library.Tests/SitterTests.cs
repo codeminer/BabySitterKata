@@ -39,7 +39,7 @@ namespace BabySitter.Library.Tests
         public void GetPayCharge_Return_Total_NightCharge_Different_Times()
         {
             Sitter babysitter = new Sitter();
-            Assert.AreEqual(132, babysitter.getPayCharge("8 PM", "6 PM", "3 AM"));
+            Assert.AreEqual(104, babysitter.getPayCharge("8 PM", "6 PM", "3 AM"));
         }
 
     }
