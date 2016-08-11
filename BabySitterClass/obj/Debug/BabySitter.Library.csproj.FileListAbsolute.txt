@@ -2,3 +2,4 @@ C:\Users\yussu\OneDrive\Documents\BabySitterKata\BabySitterClass\bin\Debug\BabyS
 C:\Users\yussu\OneDrive\Documents\BabySitterKata\BabySitterClass\bin\Debug\BabySitterClass.pdb
 C:\Users\yussu\OneDrive\Documents\BabySitterKata\BabySitterClass\obj\Debug\BabySitterClass.dll
 C:\Users\yussu\OneDrive\Documents\BabySitterKata\BabySitterClass\obj\Debug\BabySitterClass.pdb
+C:\Users\yussu\OneDrive\Documents\BabySitterKata\BabySitterClass\obj\Debug\BabySitter.Library.csprojResolveAssemblyReference.cache

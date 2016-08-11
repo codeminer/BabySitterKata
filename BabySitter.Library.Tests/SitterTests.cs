@@ -29,5 +29,12 @@ namespace BabySitter.Library.Tests
             Sitter babysitter = new Sitter();
             Assert.AreEqual(64, babysitter.MidnightToEndTimeCharge(4));
         }
+        [Test]
+        public void GetPayCharge_Return_Total_NightCharge()
+        {
+            Sitter babysitter = new Sitter();
+            Assert.AreEqual(144, babysitter.getPayCharge("11 PM", "5 PM", "4 AM"));
+        }
+            
     }
 }
