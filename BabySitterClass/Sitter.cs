@@ -8,9 +8,11 @@ namespace BabySitter.Library
 {
     public class Sitter
     {
-        public int StartTimeToBedTimeCharge(int v)
+        public int StartTimeToBedTimeCharge(int startTimeToBedTimeHours)
         {
-            throw new NotImplementedException();
+            int rate;
+            rate = 12;
+            return startTimeToBedTimeHours * rate;
         }
     }
 }
