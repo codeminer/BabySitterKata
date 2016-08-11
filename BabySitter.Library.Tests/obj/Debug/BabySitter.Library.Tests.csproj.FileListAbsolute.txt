@@ -1,0 +1,9 @@
+C:\Users\yussu\OneDrive\Documents\BabySitterKata\BabySitter.Library.Tests\bin\Debug\BabySitter.Library.Tests.dll
+C:\Users\yussu\OneDrive\Documents\BabySitterKata\BabySitter.Library.Tests\bin\Debug\BabySitter.Library.Tests.pdb
+C:\Users\yussu\OneDrive\Documents\BabySitterKata\BabySitter.Library.Tests\bin\Debug\BabySitterClass.dll
+C:\Users\yussu\OneDrive\Documents\BabySitterKata\BabySitter.Library.Tests\bin\Debug\nunit.framework.dll
+C:\Users\yussu\OneDrive\Documents\BabySitterKata\BabySitter.Library.Tests\bin\Debug\BabySitterClass.pdb
+C:\Users\yussu\OneDrive\Documents\BabySitterKata\BabySitter.Library.Tests\bin\Debug\nunit.framework.xml
+C:\Users\yussu\OneDrive\Documents\BabySitterKata\BabySitter.Library.Tests\obj\Debug\BabySitter.Library.Tests.csprojResolveAssemblyReference.cache
+C:\Users\yussu\OneDrive\Documents\BabySitterKata\BabySitter.Library.Tests\obj\Debug\BabySitter.Library.Tests.dll
+C:\Users\yussu\OneDrive\Documents\BabySitterKata\BabySitter.Library.Tests\obj\Debug\BabySitter.Library.Tests.pdb

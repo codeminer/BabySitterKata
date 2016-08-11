@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BabySitterKata
 {
-    class Program
+    class BabySitterMain
     {
         static void Main(string[] args)
         {
