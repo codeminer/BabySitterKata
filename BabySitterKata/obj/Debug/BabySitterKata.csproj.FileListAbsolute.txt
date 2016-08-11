@@ -4,3 +4,5 @@ C:\Users\yussu\OneDrive\Documents\BabySitterKata\BabySitterKata\bin\Debug\BabySi
 C:\Users\yussu\OneDrive\Documents\BabySitterKata\BabySitterKata\obj\Debug\BabySitterKata.csprojResolveAssemblyReference.cache
 C:\Users\yussu\OneDrive\Documents\BabySitterKata\BabySitterKata\obj\Debug\BabySitterKata.exe
 C:\Users\yussu\OneDrive\Documents\BabySitterKata\BabySitterKata\obj\Debug\BabySitterKata.pdb
+C:\Users\yussu\OneDrive\Documents\BabySitterKata\BabySitterKata\bin\Debug\BabySitterClass.dll
+C:\Users\yussu\OneDrive\Documents\BabySitterKata\BabySitterKata\bin\Debug\BabySitterClass.pdb
